@@ -1,9 +1,9 @@
 {
-  "name": "my-template",
+  "name": "ken3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 9030",
     "lint": "eslint . --ext .js,.ts,.tsx --fix",
     "build": "next build",
     "start": "next start"
